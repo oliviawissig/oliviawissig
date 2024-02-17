@@ -37,7 +37,7 @@
 - pokemon-pokedex <a href="https://github.com/oliviawissig/pokemon-pokedex">[WIP]</a>
 - forthealore.com <a href="https://github.com/oliviawissig/forthealore">[WIP]</a>
 - todo <a href="https://github.com/oliviawissig/">[WIP]</a>
-
+![](https://hit.yhype.me/github/profile?user_id=9342551)
 <!-- <p align="right">
   <img src="https://komarev.com/ghpvc/?username=brunotacca&style=plastic&label=Views"><img>
   <img src="https://badges.pufler.dev/visits/brunotacca/brunotacca?color=black&logo=github" />
