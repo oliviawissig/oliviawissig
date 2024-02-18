@@ -10,7 +10,7 @@ jobs:
     name: GitHub README Generator
     runs-on: ubuntu-latest
     steps:
-      - uses: th3c0d3br34ker/github-readme-info@master
+      - uses: th3c0d3br34ker/github-readme-info@1.0.2
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           TIMEZONE: "US/Eastern"
@@ -20,3 +20,4 @@ jobs:
           SHOW_WEEKLY_COMMIT: "False"
           SHOW_LANGUAGE: "False"
           SHOW_TOTAL_CONTRIBUTIONS: "False"
+            
