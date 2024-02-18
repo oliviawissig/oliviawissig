@@ -3,10 +3,10 @@
 
 ## 💬 About Me
 
-&nbsp;&nbsp;&nbsp; 👩‍💻 &nbsp;Currently working as a Sales Engineer at [OpenWeb](https://www.openweb.com/). \
+&nbsp;&nbsp;&nbsp; 👩🏼‍💻 &nbsp;Currently working as a Sales Engineer at [OpenWeb](https://www.openweb.com/). \
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for technology, culture, and plants.\
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate when it comes to problem solving and making things work.\
-&nbsp;&nbsp;&nbsp; :writing_hand: &nbsp;Learning full-stack development and focused on improving my front-end skills.\
+&nbsp;&nbsp;&nbsp; ✍🏼 &nbsp;Learning full-stack development and focused on improving my front-end skills.\
 &nbsp;&nbsp;&nbsp; 🏡 &nbsp;Living in Los Angeles with my parter, Matthew ❤️, and our two dogs, Romeo and Ella 🐾.\
 &nbsp; 
 
