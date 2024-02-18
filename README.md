@@ -39,7 +39,7 @@
 - todo <a href="https://github.com/oliviawissig/">[WIP]</a>
 
 ## 🎧 Spotify status
-[![Spotify](https://spotify-now-playing-olivia-wissigs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/oliviawissig)
+[![Spotify](https://spotify-now-playing-olivia-wissigs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/1270086138)
 ![](https://hit.yhype.me/github/profile?user_id=9342551)
 
 <p align="right">
