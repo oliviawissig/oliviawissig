@@ -40,9 +40,8 @@
 
 ## 🎵 Spotify status
 [![Spotify](https://spotify-now-playing-olivia-wissigs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/oliviawissig)
-
-![](https://hit.yhype.me/github/profile?user_id=9342551)
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=oliviawissig&style=plastic&label=Views"><img>
   <img src="https://badges.pufler.dev/visits/oliviawissig/oliviawissig.github.io?color=black&logo=github" />
 </p>
+![](https://hit.yhype.me/github/profile?user_id=9342551)
