@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/static/v1?logo=github&label=&message=github&color=36465D&logoColor=AAA&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=visual-studio-code&label=&message=vscode&color=36465D&logoColor=AAA&style=flat-square" />
   <img src="https://img.shields.io/static/v1?logo=intellij-idea&label=&message=intellij&color=36465D&logoColor=AAA&style=flat-square" />
+  <img src="https://img.shields.io/static/v1?logo=firebase&label=&message=firebase&color=36465D&logoColor=AAA&style=flat-square" />
 </p>
 
 ## 💻 Current projects
