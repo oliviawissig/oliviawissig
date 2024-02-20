@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋🏼 I'm Olivia</h1>
-<h3 align="center">A sales & support engineer from California</h3>
+<h3 align="center">A sales / support engineer from California</h3>
 
 ## 💬 About Me
 
