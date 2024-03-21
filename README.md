@@ -37,7 +37,7 @@
 ## 💻 Current projects
 - pokemon-pokedex <a href="https://github.com/oliviawissig/pokemon-pokedex">[WIP]</a>
 - forthealore.com <a href="https://github.com/oliviawissig/forthealore">[WIP]</a>
-- todo <a href="https://github.com/oliviawissig/">[WIP]</a>
+- speak up! <a href="https://github.com/oliviawissig/speak-up-deepgram">[WIP]</a>
 
 ## 🎧 Spotify status
 [![Spotify](https://spotify-now-playing-olivia-wissigs-projects.vercel.app/api/spotify)](https://open.spotify.com/user/1270086138)
