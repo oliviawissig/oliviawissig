@@ -5,9 +5,9 @@
 
 &nbsp;&nbsp;&nbsp; 👩🏼‍💻 &nbsp;Currently working as a Sales Engineer at [OpenWeb](https://www.openweb.com/). \
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for technology, culture, and plants.\
-&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate when it comes to problem solving and making things work.\
+&nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate about problem-solving and making things work.\
 &nbsp;&nbsp;&nbsp; ✍🏼 &nbsp;Learning full-stack development and focused on improving my front-end skills.\
-&nbsp;&nbsp;&nbsp; 🏡 &nbsp;Living in Los Angeles with my parter, Matthew ❤️, and our two dogs, Romeo and Ella 🐾.\
+&nbsp;&nbsp;&nbsp; 🏡 &nbsp;Living in Los Angeles with my partner, Matthew ❤️, and our two dogs, Romeo and Ella 🐾.\
 &nbsp; 
 
 <p align="center">
@@ -35,8 +35,8 @@
 </p>
 
 ## 💻 Current projects
-- pokemon-pokedex <a href="https://github.com/oliviawissig/pokemon-pokedex">[WIP]</a>
-- forthealore.com <a href="https://github.com/oliviawissig/forthealore">[WIP]</a>
+- pokemon-pokedex <a href="https://github.com/oliviawissig/pokemon-pokedex">[WIP]</a> 
+- issue-tracker <a href="https://github.com/oliviawissig/issue-tracker">[WIP]</a>
 - speak up! <a href="https://github.com/oliviawissig/speak-up-deepgram">[WIP]</a>
 
 ## 🎧 Spotify status
