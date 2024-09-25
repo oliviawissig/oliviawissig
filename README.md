@@ -3,7 +3,7 @@
 
 ## 💬 About Me
 
-&nbsp;&nbsp;&nbsp; 👩🏼‍💻 &nbsp;Currently working as a Sales Engineer at [OpenWeb](https://www.openweb.com/). \
+&nbsp;&nbsp;&nbsp; 👩🏼‍💻 &nbsp;Currently working as a Solutions Engineer at [1Password](https://1password.com/). \
 &nbsp;&nbsp;&nbsp; :seedling: &nbsp;Love for technology, culture, and plants.\
 &nbsp;&nbsp;&nbsp; :heartbeat: &nbsp;Passionate about problem-solving and making things work.\
 &nbsp;&nbsp;&nbsp; ✍🏼 &nbsp;Learning full-stack development and focused on improving my front-end skills.\
